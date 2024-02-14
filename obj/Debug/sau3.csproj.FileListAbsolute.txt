@@ -1,0 +1,10 @@
+C:\Users\baybe\source\repos\sau3\bin\Debug\sau3.exe.config
+C:\Users\baybe\source\repos\sau3\bin\Debug\sau3.exe
+C:\Users\baybe\source\repos\sau3\bin\Debug\sau3.pdb
+C:\Users\baybe\source\repos\sau3\obj\Debug\sau3.csproj.AssemblyReference.cache
+C:\Users\baybe\source\repos\sau3\obj\Debug\sau3.Properties.Resources.resources
+C:\Users\baybe\source\repos\sau3\obj\Debug\sau3.csproj.GenerateResource.cache
+C:\Users\baybe\source\repos\sau3\obj\Debug\sau3.csproj.CoreCompileInputs.cache
+C:\Users\baybe\source\repos\sau3\obj\Debug\sau3.exe
+C:\Users\baybe\source\repos\sau3\obj\Debug\sau3.pdb
+C:\Users\baybe\source\repos\sau3\obj\Debug\grav_force.Form1.resources
